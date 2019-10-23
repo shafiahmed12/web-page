@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Damion', cursive;
+  font-size: 5.625rem;
+  color: #042f4b;
+}
+
+h2 {
+  font-weight: normal;
+  color: #66BFBF;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 2.5rem;
+
+}
+
+h3 {
+    color: #11999E;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 1.75rem;
+}
+
+.top-container {
+  background-color: #c2e8ce;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.profile-pic {
+  border-radius: 50%
+}
+
+
+
+.skills{
+  width: 50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+.footer-link{
+  background-color: #66BFBF;
+  color: #11999E;
+}
+
+.bottom-container{
+background-color:#c2e8ce;
+padding: 50px;
+}
+.apng{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.spng{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.tpng{
+width: 25%;
+float: left;
+margin-top: 50px;
+margin-right: 30px;
+}
+
+hr {
+  border-style:none;
+  width: 5%;
+  border-top: dotted;
+  border-width: 5px;
+  border-color: grey;
+
+}
+
+.profile{
+  width: 50%;
+  margin: 20px auto auto auto;
+  line-height: 2;
+}
+
+.contact-me{
+  line-height: 2;
+
+}
+.freelancer{
+  color: #11999E;
+}
+.button{
+  color: #11999E;
+}
